@@ -45,7 +45,7 @@ local Divider = Tab:CreateDivider()
 Divider:Set(false) -- Whether the divider's visibility is to be set to true or false.
 
 Rayfield:Notify({
-   Title = "Obrigado",
+   Title = "Obrigado por usar nosso hub",
    Content = "Desenvolvedor: Bio_xy7890 🇧🇷",
    Duration = 10,
    Image = 76089771937509,
